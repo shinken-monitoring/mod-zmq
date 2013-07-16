@@ -1,0 +1,24 @@
+{
+  "name": "zmq",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-zmq",
+  "author": "Thomas Cellerier",
+  "description": "Export data to a ZMQ endpoint",
+  "contributors": [
+    {
+      "name": "Thomas Cellerier",
+      "email": "thomascellerier@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-zmq",
+  "keywords": [
+    "module",
+    "broker",
+    "zmq"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
